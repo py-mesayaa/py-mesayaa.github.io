@@ -4,4 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 ---
