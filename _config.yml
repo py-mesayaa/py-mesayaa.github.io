@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ivett's page
+title: Ivett's projects
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is my page to collect my project and experiences. 
 github_username: py-mesayaa
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -59,6 +59,8 @@ author:
   avatar : "/assets/images/profile_1.png"
   bio    : "This is my page to collect my project and all my other experiences."
   links:
+    - label: "Copenhagen, DK"
+      icon: "fas fa-map-marker-alt"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://py-mesayaa.github.io"
@@ -68,9 +70,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/py-mesayaa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ivett-pribula/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/pivott___"
+
 
 footer:
   links:
@@ -80,6 +86,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/py-mesayaa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ivett-pribula/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/pivott___"
